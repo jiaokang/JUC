@@ -11,3 +11,4 @@ gen
 /.gitignore
 /patrol-admin/target/
 /.idea/
+target/
